@@ -1,0 +1,3533 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1925,
+        "DepthMeter": 1,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{25F57193-E017-4AE0-9690-4AF349537218}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6765106373,
+          42.918542676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1926,
+        "DepthMeter": 1.4,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{445C2849-56A7-4ABB-862F-5592C19F9C82}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6768347257,
+          42.9186310096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1927,
+        "DepthMeter": 1.24,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{9928E8A2-82A4-4B54-8475-DD4519919D67}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6771985582,
+          42.9187524872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1928,
+        "DepthMeter": 1.55,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{DACBBA5F-E779-482D-8944-787039C84E74}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.677679878,
+          42.9188384604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1929,
+        "DepthMeter": 1.61,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{EC4AAC03-53AD-45C7-9AE9-D410B5D34F02}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6780847894,
+          42.9188755647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1930,
+        "DepthMeter": 1.42,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{1A958532-4946-4B15-AE71-06A92408C145}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6785891522,
+          42.9190029404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1931,
+        "DepthMeter": 1.14,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{EEDA0440-A46B-4A70-8311-1D7870904891}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6789749326,
+          42.9191196881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1932,
+        "DepthMeter": 0.81,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{B32F6343-AF4C-41CC-B688-84D87D87D874}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6792414145,
+          42.9192228051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1933,
+        "DepthMeter": 1.77,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{834F86DC-CE67-433E-B63A-196B46B36757}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6794999003,
+          42.9194085511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1934,
+        "DepthMeter": 1.98,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{E1A130C0-D44E-41C5-90DF-AD513595C94A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6799287412,
+          42.9196170657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1935,
+        "DepthMeter": 2.09,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{A60B56D2-377F-4758-8BAE-E74676380DCB}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6804229818,
+          42.9197913764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1936,
+        "DepthMeter": 1.75,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{8729F3B4-B319-4B72-BFDA-3DA798412802}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6810622545,
+          42.9199035781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1937,
+        "DepthMeter": 1.64,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{EF9A38CF-73C4-45E1-8464-60562D0B3BA8}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6819196216,
+          42.9198112003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1938,
+        "DepthMeter": 1.4,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{F7F79387-CF3C-409E-9C00-756B03180E68}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6825795977,
+          42.9198386507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1939,
+        "DepthMeter": 1.31,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{76A4D970-C63B-4C3B-98B1-134C1F635025}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6830627045,
+          42.9198571469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1940,
+        "DepthMeter": 1.72,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{E7D137F0-5C7C-4C55-8A1B-B5E707179B7B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6836507228,
+          42.9198763289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1941,
+        "DepthMeter": 1.65,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{32A62383-34E0-4EEB-84BC-2D8312DD3E99}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6840530964,
+          42.9201770251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1942,
+        "DepthMeter": 1.91,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{45A744C7-3CFE-4D49-89A5-B4FD6B72741B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6836017039,
+          42.9197117379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1943,
+        "DepthMeter": 4.85,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{97F6A044-8A5A-4032-9338-BBCD284EFA5D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6835744893,
+          42.9194719736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1944,
+        "DepthMeter": 6.07,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{C817B545-670A-446D-9946-1E51369FC9FB}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6836533915,
+          42.9191294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1945,
+        "DepthMeter": 9.1,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{06C1A113-04B3-40ED-9FD8-2F4B72B8CDB0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6836858755,
+          42.91864386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1946,
+        "DepthMeter": 11.69,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{CB25FEB3-0921-4A4E-BC77-1DD9C60F5C50}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6836680782,
+          42.9182823286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1947,
+        "DepthMeter": 11.8,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{D343053E-684E-4FE1-B6E7-49B5ED4A79F3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6834849517,
+          42.9179588838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1948,
+        "DepthMeter": 6.8,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{06E68684-7900-4C3C-8AA5-29D155A2DF2F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6832288773,
+          42.9173624691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1949,
+        "DepthMeter": 4.02,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{353AEFFE-FAFD-4B43-A463-7A6BA0A32DF8}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6830281262,
+          42.9170008521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1950,
+        "DepthMeter": 2.18,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{1F961DBD-C9C2-445F-B32E-F3EA86CD3907}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.682890034,
+          42.9167700974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1951,
+        "DepthMeter": 1.1,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{DB6B5A9C-26B3-4A3A-BBB7-D6A13386B3ED}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.682726381,
+          42.9166314571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1952,
+        "DepthMeter": 1.56,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{1002D2A7-CDBD-4721-A3FA-F3CC6171CE91}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6825134332,
+          42.916601092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1953,
+        "DepthMeter": 3.24,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{074BD3F5-D677-494A-AD8B-9214EDB214D4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6825276247,
+          42.9167966068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1954,
+        "DepthMeter": 6.6,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{93ABE84B-3D45-480E-BCE7-D2730006E9E0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6826483615,
+          42.9172532878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1955,
+        "DepthMeter": 9.55,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{4E4C8844-40E8-4E9C-8268-452DBAE34550}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6828953129,
+          42.9175201646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1956,
+        "DepthMeter": 12.15,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{E3FB6568-52D9-4BEF-ACF0-E3ADA437E859}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6828892885,
+          42.9180321666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1957,
+        "DepthMeter": 10.8,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{5E51C7A9-C88F-420F-8780-0FC0DDFD3E63}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6830193267,
+          42.9185086869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1958,
+        "DepthMeter": 6.31,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{C131649F-416D-4C18-B794-92FDA93905C5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6830273582,
+          42.9191006332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1959,
+        "DepthMeter": 5.24,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{24F3F44A-08BB-43B6-B4AC-722C345A4DC4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6832281601,
+          42.9194716922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1960,
+        "DepthMeter": 1.86,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{DE6126DC-B208-4A44-A487-4F9268F9968C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6826552462,
+          42.919714432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1961,
+        "DepthMeter": 4.78,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{1AB6E1D8-DCBF-424A-9913-AFC433814B5E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6826547282,
+          42.9193785761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1962,
+        "DepthMeter": 5.29,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{927CF21C-2F34-4EB8-81BB-FE5EC2B284BF}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6826010099,
+          42.9192317196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1963,
+        "DepthMeter": 6,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{82159A0B-5511-4DA6-BCAB-469E03F778F4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6825397336,
+          42.9190122512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1964,
+        "DepthMeter": 7.44,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{B57B12CE-4E29-44A1-BBC0-3046F16BF4D7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6825063872,
+          42.9187239265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1965,
+        "DepthMeter": 9.72,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{FFF08C1E-E14C-4515-97C5-AC93B5D1A788}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6824899068,
+          42.9183779814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1966,
+        "DepthMeter": 11.53,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{5FCF912B-7F16-4743-BF12-173B00F5A18C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6824615504,
+          42.9179791292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1967,
+        "DepthMeter": 10.56,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{C913B3FD-0771-481F-B41D-626F1B859207}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6823621025,
+          42.917607099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1968,
+        "DepthMeter": 6.36,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{B921A475-EECF-4375-8855-49B244CBFC40}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.682052743,
+          42.9170435444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1969,
+        "DepthMeter": 4.75,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{E6EB693E-6915-440A-99D8-8F7A7557D74A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6820039678,
+          42.9168550682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1970,
+        "DepthMeter": 1.64,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{56661FF7-636F-4B38-AB75-B43B3E7778E5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6819190108,
+          42.9166761988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1971,
+        "DepthMeter": 3.16,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{9B75D466-0CC7-40D1-9209-F404465AE8A2}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6819068111,
+          42.9168211746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1972,
+        "DepthMeter": 6.48,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{69ED9B0D-0EFF-480C-B738-F917181D358A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6819216656,
+          42.9171356679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1973,
+        "DepthMeter": 8.41,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{00490346-CB4B-4B7F-AEDA-AFB609A6E0DB}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6820263429,
+          42.9176368707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1974,
+        "DepthMeter": 7.34,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{09B9F479-B287-4D52-AA81-113DF0B66C7C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6820733538,
+          42.9179925291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1975,
+        "DepthMeter": 8.39,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{631BE22D-E790-4BA0-A0EF-2C58EABB7A6A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.682040366,
+          42.9184821185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1976,
+        "DepthMeter": 6.36,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{F544CCA1-57CD-443F-B8FA-BBA7511AE84A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6820580821,
+          42.9188692177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1977,
+        "DepthMeter": 5.09,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{C8EC7544-B695-411E-AB29-6C8C91EC6093}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6820205694,
+          42.9192360665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1978,
+        "DepthMeter": 2.36,
+        "MapDate": "2009/09/07",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{57554659-767C-4935-866C-610328504736}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6820519462,
+          42.9195603986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1979,
+        "DepthMeter": 2.24,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{E44A0E9A-6093-4773-BD79-0C05EF9E1B56}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6811754649,
+          42.9197628626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1980,
+        "DepthMeter": 4.33,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{019194F0-25F5-4F1D-AD60-6695D817DBBE}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6811862077,
+          42.9194940136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1981,
+        "DepthMeter": 5.46,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{C39C0646-3B9F-4691-9F60-AA5C4AD66BDE}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6811533092,
+          42.9191813655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1982,
+        "DepthMeter": 6.21,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{6C9515BB-FDAC-48B2-B4D2-9D73AF2C08F8}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6811462293,
+          42.9187873503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1983,
+        "DepthMeter": 7.46,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{937B9C93-D545-4377-8F6C-09CF9416AFFC}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6810803885,
+          42.9183330773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1984,
+        "DepthMeter": 7.39,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{F0893D2C-A91D-4FF1-B533-D6153DE19D50}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6811181207,
+          42.9178165604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1985,
+        "DepthMeter": 5.99,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{09AF6BD4-E367-461A-BE1B-23AB2EA279EF}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6811774936,
+          42.9173307516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1986,
+        "DepthMeter": 5.89,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{4794FD69-1422-48D2-8DF5-F4B1518CE2C6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6811714971,
+          42.9170790768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1987,
+        "DepthMeter": 2.51,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{19921BB3-AC0B-47E3-8715-258938CBA1B4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6813541162,
+          42.9167918104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1988,
+        "DepthMeter": 1.4,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{BE39D934-D246-4B59-A290-8E5D55DC2F66}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6814890206,
+          42.9167291259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1989,
+        "DepthMeter": 0.61,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{A290B06D-AD25-498F-AE7C-EA2E80A66743}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6806081154,
+          42.9166081574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1990,
+        "DepthMeter": 1.93,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{42A50171-2322-4466-8690-7352E301F627}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6805717319,
+          42.9167719664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1991,
+        "DepthMeter": 4.41,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{4D56FC40-B8B7-4FEF-861B-364D1E1C445D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.680553609,
+          42.9170459158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1992,
+        "DepthMeter": 5.5,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{5D2F6F49-2849-4771-8C3E-28274378BA80}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6804495603,
+          42.9175020379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1993,
+        "DepthMeter": 7.67,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{AC9DDBFF-6EAF-44CF-9B11-6B52ABEE7A6E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6804809909,
+          42.9180569119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1994,
+        "DepthMeter": 8.06,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{ABFD80AC-1346-4BC4-9C24-1806F2A534AE}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6805482437,
+          42.9185831796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1995,
+        "DepthMeter": 5.36,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{0F188DC9-A24F-4846-AC0E-FB3394B3A8C2}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6805948159,
+          42.9191322251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1996,
+        "DepthMeter": 3.98,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{7915315E-FDEC-4429-860E-FD75600FD8A9}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6807103261,
+          42.9195883292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1997,
+        "DepthMeter": 3.4,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{505863F5-27C1-4207-B90E-3F55F646307F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6802416818,
+          42.9195797132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1998,
+        "DepthMeter": 5.16,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{14DA869E-E2A6-458B-AEEB-1657D782157E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6802020861,
+          42.9192238517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1999,
+        "DepthMeter": 6.48,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{06462884-46A5-4190-BA64-21A1725537FC}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6801738638,
+          42.9187715075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2000,
+        "DepthMeter": 8.34,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{F5C35CCC-00B9-4E5A-AAD1-269782841561}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6801657866,
+          42.9181994949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2001,
+        "DepthMeter": 6.61,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{6C628C82-ACA5-4558-8100-1EB5901696ED}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6800320822,
+          42.917604806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2002,
+        "DepthMeter": 3.99,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{EF59C092-4A37-450E-988C-1A0C76BED817}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6799784162,
+          42.9173120375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2003,
+        "DepthMeter": 0.73,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{A1CDB9A2-837A-49EF-AAE4-D39E8A5C4893}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6798211586,
+          42.9171478967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2004,
+        "DepthMeter": 1.16,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{C21013AC-CB84-4923-AD95-ACD9F6391EEF}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.679252896,
+          42.9173517978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2005,
+        "DepthMeter": 4.21,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{F686A617-C649-480E-9176-6257CFB824BB}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6793060342,
+          42.9175701304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2006,
+        "DepthMeter": 5.65,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{BB65DE52-A7A7-4145-B2F2-114993576293}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6794043259,
+          42.9178796961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2007,
+        "DepthMeter": 6.51,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{C5973F60-7461-47D9-9A0D-DD4C85E470CE}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.679550906,
+          42.9181731392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2008,
+        "DepthMeter": 5.26,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{A3E302FE-07B1-4811-8CBC-D9C9A3C46EBE}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6796123994,
+          42.9187061949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2009,
+        "DepthMeter": 4.3,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{C6F7215D-CC8D-4A00-9324-29BD587C9594}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6795451955,
+          42.9191048547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2010,
+        "DepthMeter": 2.02,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{760CAD21-1A2D-4EF3-8478-865190457FE5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6794728281,
+          42.9193908606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2011,
+        "DepthMeter": 2,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{95E2A65E-0D3D-4D34-8352-FE8A8AA84F3D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6788040258,
+          42.9190214893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2012,
+        "DepthMeter": 4.32,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{C07A4145-522E-40E3-A735-1556C56BFB0F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6786810961,
+          42.9186509815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2013,
+        "DepthMeter": 4.93,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{3033D3A8-ADEF-4E87-9E77-777F43E7D3A6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6785951596,
+          42.9183124151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2014,
+        "DepthMeter": 5.21,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{A1E36680-0436-4BC1-A759-E0A1F8CB34A3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6785801386,
+          42.9178704327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2015,
+        "DepthMeter": 3.85,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{1968551B-2D0A-4B96-8A62-AC54EC3887F4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6785646352,
+          42.91753662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2016,
+        "DepthMeter": 1.15,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{2BA0FE34-D072-4D9A-AA1D-19A81AA0E2AA}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6785373924,
+          42.9173495356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2017,
+        "DepthMeter": 0.97,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{79935CB2-7094-4705-A443-CFFA9BC5FEA1}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6779582331,
+          42.9173530155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2018,
+        "DepthMeter": 1.85,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{71A23538-7748-4EE4-9CF0-6B092CB7E088}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6779739993,
+          42.9174762969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2019,
+        "DepthMeter": 3.21,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{0133871C-BC81-459F-9710-35041B82FB28}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6780165299,
+          42.9176516011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2020,
+        "DepthMeter": 4.45,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{77C6D5C5-75D7-4210-AC55-CA6204E3B815}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6780002999,
+          42.9180216887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2021,
+        "DepthMeter": 4.76,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{B757D88C-F74F-4CF8-BA2E-1ABEE4BD35AC}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6779965122,
+          42.9184303771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2022,
+        "DepthMeter": 2.67,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{2ED30DEA-918E-41B8-8ECF-0FC0935E2F3A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6780260892,
+          42.9187713469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2023,
+        "DepthMeter": 1.9,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{A5FF3D8F-84E4-409E-BE43-4E8F7127250A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6774874016,
+          42.9187876928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2024,
+        "DepthMeter": 3.4,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{9B96868E-07F2-4B45-B4EE-C50E50237E6B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6774286552,
+          42.9186067982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2025,
+        "DepthMeter": 3.9,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{DB57D3CD-90E4-47ED-870D-8A2F25754D65}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6774544435,
+          42.9182418908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2026,
+        "DepthMeter": 3.19,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{76A79B43-E561-49C1-98A2-3E483C0FC0BC}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6774693768,
+          42.9179087447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2027,
+        "DepthMeter": 1.88,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{36C1CF7E-C84A-4D4B-88C5-CE7D771406C3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6776112897,
+          42.9176115057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2028,
+        "DepthMeter": 0.73,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{741411B3-694E-4A74-A8D2-EF68744CCD32}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6774818461,
+          42.9175591109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2029,
+        "DepthMeter": 0.55,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{A126FB27-749E-43CC-946B-1EDE8A5DD489}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6770235279,
+          42.9176844523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2030,
+        "DepthMeter": 2.56,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{78685ECC-6A03-4FC1-B936-FDFF1800A77B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6771233638,
+          42.9179418199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2031,
+        "DepthMeter": 2.77,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{8267338C-37A7-4C47-B75A-BA8D701D18E6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6770893755,
+          42.9182081696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2032,
+        "DepthMeter": 2.7,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{FCFDAC54-C835-42ED-AF45-0D8BEED7C437}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6769676344,
+          42.9185043649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2033,
+        "DepthMeter": 1.89,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{284BE3F2-FF55-49F9-A808-71EBE0785469}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6768448431,
+          42.9186740125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2034,
+        "DepthMeter": 0.55,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{ECEE09CF-E01C-4194-8EBC-EFCC42A9FDB7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6763224388,
+          42.918589037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2035,
+        "DepthMeter": 1.58,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{B8BEDCB8-F2E5-4B0E-86E1-DF47A0BB4A46}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6762923599,
+          42.9184339179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2036,
+        "DepthMeter": 1.65,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{004F37E8-6B64-489C-8D51-3898636FE94A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6762346007,
+          42.9182177263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2037,
+        "DepthMeter": 1.65,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{50F035EF-D0B1-4EE8-9BDF-AE8793BC3C95}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6762588221,
+          42.9180706991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2038,
+        "DepthMeter": 1.49,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{FCEAECF2-2783-48BA-8E44-247732440126}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6763724137,
+          42.9179866801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2039,
+        "DepthMeter": 0.55,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{8FD97ECC-8894-4752-BDCA-8C05FBE96B80}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6764797987,
+          42.9178253259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2040,
+        "DepthMeter": 2.42,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{7228BAE8-A3C7-4621-B5AB-6B07B25447A8}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6767775896,
+          42.9181583702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2041,
+        "DepthMeter": 1.05,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{619B37D9-1725-4879-857D-DE197419CFA6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6840829428,
+          42.9168523392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2042,
+        "DepthMeter": 2.05,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{695F41D6-C968-434A-8A50-73DD617543C8}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6841933062,
+          42.9171231164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2043,
+        "DepthMeter": 6.33,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{3416A524-B4F8-43DF-8A31-44A977A80C02}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6843127997,
+          42.9174882416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2044,
+        "DepthMeter": 9.45,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{8E1818A5-4503-490C-95C2-EEFF146B17E6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6844739634,
+          42.917773816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2045,
+        "DepthMeter": 10.38,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{86DFE31C-7583-48CB-AA4A-69F2FA929392}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6846641186,
+          42.918226846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2046,
+        "DepthMeter": 7.25,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{6D66B696-811D-4F30-AFA9-14131C693FC7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.684786267,
+          42.9188762925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2047,
+        "DepthMeter": 5.82,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{DAA43919-A789-4A34-851D-4667DA06A50B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6846870705,
+          42.9193227838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2048,
+        "DepthMeter": 5.62,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{D1DBEC66-3914-4A20-B67F-090EBA7A3698}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.684448778,
+          42.9196598673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2049,
+        "DepthMeter": 5.11,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{C39C7102-D168-4872-A1B5-554B6BC53249}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6843079869,
+          42.9200006003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2050,
+        "DepthMeter": 0.64,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{774D9456-4E9F-4F18-A48E-41517F28E394}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6841263669,
+          42.9207095921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2051,
+        "DepthMeter": 3.35,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{C5FAE6D2-7D06-44CE-A8C7-75C153D605ED}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6841532052,
+          42.9203791493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2052,
+        "DepthMeter": 5.15,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{70D3A786-530E-47D1-A2AC-CE83E8E4BE95}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6846722355,
+          42.9200622697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2053,
+        "DepthMeter": 5.51,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{D0AD0B95-3FDF-4146-9F48-E6887D5C9428}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6849922364,
+          42.9196563681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2054,
+        "DepthMeter": 5.8,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{5413E479-8415-4822-82BC-4D1C76FD7E35}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6853470827,
+          42.9190816508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2055,
+        "DepthMeter": 5.74,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{244E85FF-0767-42B8-BC95-6670D1780489}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6856452207,
+          42.918507505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2056,
+        "DepthMeter": 9.1,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{8F820B92-7CCE-4FA5-BE86-6C2DB6DF3566}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6855908331,
+          42.9178026417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2057,
+        "DepthMeter": 7.59,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{B24227C0-9B51-4A80-BF53-FDD839681799}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6854762015,
+          42.9172538246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2058,
+        "DepthMeter": 5.01,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{56D2A481-3D7E-444E-8F2C-56B7D51CBC62}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6854199968,
+          42.9168429988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2059,
+        "DepthMeter": 1.82,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{BE69FAA2-0959-43C8-8537-249913758088}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6850794208,
+          42.9165551332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2060,
+        "DepthMeter": 0.54,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{3558212C-772A-4013-BC18-4553C1FDFC67}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6849751639,
+          42.9164564451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2061,
+        "DepthMeter": 1.28,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{531AFE49-25AA-48A0-BDB7-BEDB238ED126}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6851053965,
+          42.9163136043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2062,
+        "DepthMeter": 1.34,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{45ED1091-FE03-4257-8BEF-1F2DE04A16DB}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6851235897,
+          42.916109221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2063,
+        "DepthMeter": 0.84,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{6E712DF4-9D22-4A60-A4F9-E55003CB7494}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6851528504,
+          42.9158965127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2064,
+        "DepthMeter": 0.75,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{E538CFBA-CE5F-4359-9ADC-DD3F190C1BC6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6852076999,
+          42.9156965873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2065,
+        "DepthMeter": 4.74,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{231BED99-C669-406F-A92D-3EC280D79090}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6854584632,
+          42.9159857377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2066,
+        "DepthMeter": 5.12,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{6A635E51-9C71-4109-AC74-E5B9D57E6DA4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6858623929,
+          42.9163276289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2067,
+        "DepthMeter": 5.28,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{D966BDFE-BC27-4D80-AA27-9E33C05005B9}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6861717085,
+          42.9167678396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2068,
+        "DepthMeter": 5.2,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{6DBE1C7B-F8F9-42CE-8097-2DA1A703F8D9}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6863021096,
+          42.9172012157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2069,
+        "DepthMeter": 4.14,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{51D7E8A4-F822-4C25-9DBD-FF6AF0C01C3F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6865317467,
+          42.9177343613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2070,
+        "DepthMeter": 3.84,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{9A3087E3-B9F0-4A61-BA67-4A0D0F6606CF}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6865211315,
+          42.9181509927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2071,
+        "DepthMeter": 3.67,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{F99E3B1B-EB5B-4DFD-9C58-D9D6B6F271FE}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6862872228,
+          42.9186032897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2072,
+        "DepthMeter": 4.94,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{D64F356A-9A08-4483-902A-ED7B083F5F69}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.686099928,
+          42.9189768955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2073,
+        "DepthMeter": 5.34,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{C7FCDADB-BB2A-452D-A75E-05E98BC3B82E}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6859222127,
+          42.91944541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2074,
+        "DepthMeter": 5.2,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{22629351-9C42-4F3F-B4F9-55C2007A5FF7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6857085884,
+          42.919924412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2075,
+        "DepthMeter": 4.69,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{DB14301B-2D80-4EB2-B1C3-43D3A3D8070A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6853252276,
+          42.9204174048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2076,
+        "DepthMeter": 4.89,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{FCD889E8-78C2-4890-B5B5-18C4C285EEAB}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6850715498,
+          42.9208918011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2077,
+        "DepthMeter": 3.45,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{EE2BCF0D-DA20-4B32-9F5F-DCE993507364}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6849254043,
+          42.9212710788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2078,
+        "DepthMeter": 1.66,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{FE76D4B6-8892-4E46-A13F-585A8B9C902D}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6848676027,
+          42.9213728895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2079,
+        "DepthMeter": 1.61,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{3533086E-A3BC-4D6B-9452-EEE92B02550A}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.685100242,
+          42.9214601708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2080,
+        "DepthMeter": 1.5,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{E4C3CA6A-E10A-4DD7-AB19-26F9AEEAB179}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6855543469,
+          42.9215363977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2081,
+        "DepthMeter": 1.09,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{7EF17ACA-7D4A-4559-A957-B8D32B8DF175}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.685968945,
+          42.9216154829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2082,
+        "DepthMeter": 0.82,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{AC8C65F9-E687-444E-B67E-C731943B9BF4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6865615302,
+          42.9217390524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2083,
+        "DepthMeter": 0.86,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{2472F8C1-8038-40FA-9600-EA6095CAFF1C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6869696033,
+          42.921726496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2084,
+        "DepthMeter": 1.16,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{576CC01F-783E-469E-9FFD-B86B97D3E311}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6873322425,
+          42.9216929741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2085,
+        "DepthMeter": 0.53,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{669857DC-48B1-45BF-A0D1-758791A9E0E1}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6870874891,
+          42.9214839012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2086,
+        "DepthMeter": 0.68,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{5CD10508-DEAC-4FCA-9843-92A3FE426D80}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6872363875,
+          42.9212401267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2087,
+        "DepthMeter": 0.86,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{FFA417E3-919C-453F-8D8C-1A92E259681B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6872759971,
+          42.9208850897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2088,
+        "DepthMeter": 2.83,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{A2EA8847-9342-40B9-A883-9283C4079AC7}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.686979429,
+          42.9209556014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2089,
+        "DepthMeter": 4.75,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{B6AED92F-ACE4-4770-997E-5D0882F611C6}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6865437098,
+          42.9210403614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2090,
+        "DepthMeter": 3.89,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{A77AD64F-64F5-477C-92AE-82C8CEDDCDD5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6860601133,
+          42.9212854834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2091,
+        "DepthMeter": 5.19,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{11985219-5BC3-43BB-BB2D-044F5C8E490F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6865803809,
+          42.9205257369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2092,
+        "DepthMeter": 4.35,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{D476D594-6FF0-40E5-A276-AA17D32B7500}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6870153648,
+          42.9197802576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2093,
+        "DepthMeter": 2.56,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{18892BEA-A11E-4BE2-A3B6-4C9D3679AFC8}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6873932496,
+          42.9190634755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2094,
+        "DepthMeter": 3.16,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{24ADAA8B-0287-41C4-87B5-00B89BCAC50C}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6873670991,
+          42.9181621933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2095,
+        "DepthMeter": 2.49,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{01EE465C-CC9F-403F-9742-C8322F72EB16}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6873554695,
+          42.917664489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2096,
+        "DepthMeter": 1.85,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{CAD3B6FF-A876-40ED-9803-A7EB33F68CDC}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6872153662,
+          42.9170746286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2097,
+        "DepthMeter": 1.58,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{23021B91-C49B-4931-81D5-0756C7FD6972}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6870412114,
+          42.9166816807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2098,
+        "DepthMeter": 4.29,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{B8219060-13EE-43D3-AE68-21ADC737D6F2}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6867291398,
+          42.9163442853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2099,
+        "DepthMeter": 5.11,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{7786E7C0-7818-47D3-8C3D-9E4642F2BAA0}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6862623958,
+          42.9160018476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2100,
+        "DepthMeter": 4.22,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{A4B6B3DE-B159-40CD-9555-0D143E86F8B5}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6857307681,
+          42.9157171789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2101,
+        "DepthMeter": 1.63,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{3E83BBE6-6DB0-4FFC-9536-4E2C529F854F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6854753169,
+          42.9154192588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2102,
+        "DepthMeter": 0.81,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{C0018210-9E13-46B5-85B7-04BA3F353143}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6855320742,
+          42.9152878889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2103,
+        "DepthMeter": 1.14,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{A6D721CE-25B7-4A24-A500-0FAA2BF7D8AB}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6859375495,
+          42.9152254192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2104,
+        "DepthMeter": 0.72,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{1CA4623F-4AEC-4101-B812-A07EF5901479}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6862816989,
+          42.915071418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2105,
+        "DepthMeter": 1.86,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{246C350B-424A-4A0C-A923-F6AA0B17C53B}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6864637637,
+          42.9151760114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2106,
+        "DepthMeter": 3.9,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{CD4B1BCF-5EEE-48AC-A705-62C2D5B82E42}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.686801944,
+          42.9154220628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2107,
+        "DepthMeter": 2.61,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{304AD67E-5117-44A7-8BCE-01D997B8DDCA}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6873683086,
+          42.9158205587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2108,
+        "DepthMeter": 1.38,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{EC5A59DC-913F-4B9C-9E7A-B802975BA8D4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6876419178,
+          42.9161806499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2109,
+        "DepthMeter": 0.92,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{3B56E2A4-5CA4-40F6-A4BC-CDF4BD2170E3}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6877987216,
+          42.9164462345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2110,
+        "DepthMeter": 1.1,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{175358C7-6D80-40B7-885E-6D63CF6A3E09}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6881053581,
+          42.9160846435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2111,
+        "DepthMeter": 2.15,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{2421506F-45AF-498A-B5E6-788B7A3C4B2F}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6878126617,
+          42.9158424291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2112,
+        "DepthMeter": 2.84,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{FD2A0DCF-CF58-409C-B73C-69371A01D2E4}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6873844151,
+          42.9153940222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2113,
+        "DepthMeter": 1.13,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{BDBD00FB-D492-46F0-8FFB-9D4B86C0DF43}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6871569828,
+          42.9150203934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2114,
+        "DepthMeter": 0.98,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{4862C09A-DECF-47CD-9330-A53685261DA8}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6874120741,
+          42.914916523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2115,
+        "DepthMeter": 0.54,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{530B20FD-88F2-446A-B951-F94F1AB91FBA}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6879156814,
+          42.9148685183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2116,
+        "DepthMeter": 1.6,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{6EA445DE-D0F1-4B30-8612-851C447D79DE}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6881492474,
+          42.9151088502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2117,
+        "DepthMeter": 1.31,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{3B0C56A2-7CA1-4DF0-A876-920D8FFF6673}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6885430049,
+          42.9155097888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2118,
+        "DepthMeter": 0.77,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{973D96D0-2FEA-45F7-BC4A-00BF74297E23}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6889330067,
+          42.9157011653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2119,
+        "DepthMeter": 0.95,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{5BE19FE7-D8E2-4C71-AC8E-F1030278B228}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6886950164,
+          42.9159416972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2120,
+        "DepthMeter": 3.69,
+        "MapDate": "2009/09/08",
+        "Acc_Averag": 0,
+        "Acc_Worst": 0,
+        "GlobalID": "{86096AC6-DDAD-46DC-AA64-490C6696D111}"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.6868791377,
+          42.9160902228
+        ]
+      }
+    }
+  ]
+}
