@@ -27,16 +27,17 @@ var points_layer = L.mapbox.featureLayer().loadURL('bathymetry.geojson');
 
 var depthColor = d3.scale.linear()
   .domain([0,12])
-  .range([ '#c2a5cf','#7b3294' ]);
+  .range([ '#8bd1e3','#273B40' ]);
 
 points_layer.on('ready', function () {
-  var resolution = 75;
-  var breaks = [1,1.5,2,2.5,3,3.5,4,4.5,5,5.5,6,6.5,7,7.5,8,8.5,9,9.5,10,10.5,11,11.5,12,12.5,13,13.5,14,14.5,15];
+  var resolution = 40;
+  var breaks = [1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5, 5, 5.5, 6, 6.5, 7, 7.5, 8, 8.5, 9, 9.5, 10, 10.5, 11, 11.5, 12, 12.5, 13, 13.5, 14, 14.5, 15];
   var isolines = turf.isolines(points_layer.toGeoJSON(), 'DepthMeter', resolution, breaks);
+
   isolines.features.forEach(function (feature) {
     feature.properties["stroke"] = depthColor(feature.properties.DepthMeter);
     feature.properties["stroke-width"] = 1;
-    feature.properties["stroke-opacity"] = 0.5;
+    feature.properties["stroke-opacity"] = .5;
   });
 
   L.mapbox.featureLayer().setGeoJSON(isolines).addTo(map);
